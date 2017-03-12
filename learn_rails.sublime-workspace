@@ -7,6 +7,24 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "learn_rails_payments/Gemfile",
+			"settings":
+			{
+				"buffer_size": 1920,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "learn_rails_payments/config/database.yml",
+			"settings":
+			{
+				"buffer_size": 491,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -38,8 +56,19 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/Users/INSPIRON/Desktop/learn_rails/learn_rails_payments",
+		"/C/Users/INSPIRON/Desktop/learn_rails/learn_rails_payments/app/views",
+		"/C/Users/INSPIRON/Desktop/learn_rails/learn_rails_payments/config",
+		"/C/Users/INSPIRON/Desktop/learn_rails/learn_rails_payments/vendor"
+	],
 	"file_history":
 	[
+		"/C/Users/INSPIRON/Desktop/learn_rails/learn_rails_payments/.git/config",
+		"/C/Users/INSPIRON/Desktop/learn_rails/learn_rails_payments/app/views/pages/home.html.erb",
+		"/C/Users/INSPIRON/Desktop/learn_rails/learn_rails_payments/app/controllers/pages_controller.rb",
+		"/C/Users/INSPIRON/Desktop/learn_rails/learn_rails_payments/config/routes.rb"
 	],
 	"find":
 	{
@@ -74,8 +103,65 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "learn_rails_payments/Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1920,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								589,
+								589
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "learn_rails_payments/config/database.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 491,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								491,
+								491
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -85,7 +171,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
